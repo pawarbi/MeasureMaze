@@ -7,3 +7,5 @@ Follow my blog at fabric.guru
 
 About Semantic-Link : https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview
 
+Please leave feedback, questions, comments in discussion : https://github.com/pawarbi/MeasureMaze/discussions
+
